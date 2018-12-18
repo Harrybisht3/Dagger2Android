@@ -9,3 +9,10 @@
 /build
 /captures
 .externalNativeBuild
+app/libs/
+app/src/.DS_Store
+app/src/main/.DS_Store
+app/src/main/java/.DS_Store
+app/src/main/java/com/.DS_Store
+app/src/main/java/com/infy/.DS_Store
+app/src/main/java/com/infy/dagger2implementation/.DS_Store
